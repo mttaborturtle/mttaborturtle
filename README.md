@@ -1,4 +1,4 @@
-## Hi there 👋 I'm really glad you found me!!!'
+# Hi there 👋 I'm really glad you found me!!!'
 
 ## A little about me:
 * 🔭 I’m currently working on landing my dream job in the industry! Are you hiring?
