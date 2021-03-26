@@ -1,12 +1,7 @@
 ### Hi there 👋
-<div align="left">
-	<br>
-	
-		<img src="" width="800" height="400" alt="Click to see the source">
-	
 
-</div>
-* [🔭 I’m currently working on landing my dream job in the industry! Are you hiring?]
+## A little about me:
+* 🔭 I’m currently working on landing my dream job in the industry! Are you hiring?
 * [🌱 I’m currently learning Arduino just for fun. I'm also building my own amazing guitar effect pedals based on vintage circuits, you know, just for fun!]
 * 👯 I’m looking to collaborate on anything that challenges me.
 * 🤔 I’m looking for help with networking with great people in the industry!
