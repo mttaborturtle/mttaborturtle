@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">
+<div align="left">
 	<br>
 	
 		<img src="" width="800" height="400" alt="Click to see the source">
