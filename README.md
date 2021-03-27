@@ -8,7 +8,7 @@
 * 💬 Ask me about my amazingly exciting past. I have traveled the planet and the entire continental US. I haven't been to HI or AK yet, and I really mean yet...
 * 📫 How to reach me: www.mttaborturtle.com
 * 😄 Pronouns: Fun, quick learner, inquizitive, super team member, amazing musician!
-* ⚡ Fun fact: I have been to EVERY city in the contenental United States that has over 30,000 residents. Every one of them!
+* ⚡ Fun fact: I have been to EVERY city in the contenental United States that has over 50,000 residents. Every one of them!
 <!--
 **mttaborturtle/mttaborturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
