@@ -1,7 +1,7 @@
 # Hi there 👋 I'm really glad you found me!!!'
 
 ## A little about me:
-* 🔭 I’m currently working on landing my dream job in the industry! Are you hiring?
+* 🔭 I recently landed an absolute DREAM job as a developer for an amazing visual artist here in Oregon! I am beginning a great journey!
 * 🌱 I’m currently learning Arduino just for fun. I'm also building my own amazing guitar effect pedals based on vintage circuits, you know, just for fun!
 * 👯 I’m looking to collaborate on anything that challenges me.
 * 🤔 I’m looking for help with networking with great people in the industry!
